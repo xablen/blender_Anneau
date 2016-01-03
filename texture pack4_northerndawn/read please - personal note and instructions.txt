@@ -1,0 +1,30 @@
+------------------------------------------------------------
+NOTE
+------------------------------------------------------------
+
+* Do you like this texture pack & wanna help a girl out?
+
+* Go to northerndawn.tumblr.com and disable your adblock.
+You'll notice a little ad. Now, I won't blatantly ask you to click it - do it only if you're interested. (multiple times won't help me in any way. x1 is more than enough.)
+
+* I know this sounds a bit petty and desperate, but I'm currently unemployed and this is a little help. (quid pro quo, you know?)
+
+* Again, this is completely optional. Don't feel obligated to do it in any way. 
+
+* Enjoy the textures!
+
+------------------------------------------------------------
+HOW TO OPEN THE FILES
+------------------------------------------------------------
+
+By now, you have sucessfully extracted the textures folder. You may notice the .png extension and think that this is a special PS-related file, but it's simply a regular & common image file. To open them in Photoshop or any other image editing software, click File > Open.
+
+------------------------------------------------------------
+TIPS ON HOW TO USE THEM (PHOTOSHOP)
+------------------------------------------------------------
+
+The basics are: when placing dark textures above the screencaps/art - set them to either ‘lighten’ or ‘screen’, in the layer’s menu. When you use them as background, set the screencap/art to ‘lighten’/’screen’. When placing lighter textures, the same goes, but instead of setting them to lighten/screen, use ‘multiply’ instead, and then play around with their brightness/contrast.
+
+I’ve made some with certain shapes, like dark/light circles. To use them, you can either cut out a subject and place it inside the circle, or, by using PS’s shapes (in CS5 you should find the icon near the text one). Select the circle option, trace one and resize it to fit in with the texture’s circle. Then, in the layers list, place the layer you want above the circle’s layer and then right-click > create clipping mask. Now you can move the screencap around, and you’ll see that’s limited by the shape you linked it to. For the text ones, follow what I explained in the basics part. As for the stock ones, they’re meant to fill backgrounds or negative space.
+
+But this is all relative. Experiment with them, there’s no right or wrong way to use any kind of textures. 
